@@ -97,11 +97,3 @@ This project was completed as part of a **Kaggle forecasting competition** in a 
 - Competition link: [kaggle.com/t/ff5fb5beaeb14f7686df98fef9d1c0bc](https://www.kaggle.com/t/ff5fb5beaeb14f7686df98fef9d1c0bc)
 
 > Data used for non-commercial, educational purposes only.
-
----
-
-## 👤 Author
-
-**Zin Zin Aye Chan** — Student ID: 46866531  
-Bachelor of [Your Degree], Macquarie University  
-[LinkedIn](https://linkedin.com/in/yourprofile) · [GitHub](https://github.com/yourusername) · [Email](mailto:youremail@example.com)
